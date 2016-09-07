@@ -43,7 +43,7 @@ public class MineBreaker extends Component{
 	Bar bar;
 	
 	String[][] level1 = {
-			{"1","1","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X"},
+			{"X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X"},
 			{"X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X"},
 			{"X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X"},
 			{"X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X","X"},
