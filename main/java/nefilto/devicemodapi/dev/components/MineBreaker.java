@@ -116,9 +116,9 @@ public class MineBreaker extends Component{
 			boolean windowActive, float partialTicks) {
 		
 		drawTexture(xPosition, yPosition, 0.0f, 146.0f, 362, 165, 512.0f, 512.0f, mainSp, mc);
-		//-----------------
+		//----------------
 		//Draw Left Side
-		//-----------------
+		//----------------
 		drawRect(xPosition+9, yPosition+9, xPosition+100-9, yPosition + height -9, Color.BLACK.getRGB());
 		drawRect(xPosition+10, yPosition+10, xPosition+100-10, yPosition + height -10, Color.GRAY.getRGB());
 		
